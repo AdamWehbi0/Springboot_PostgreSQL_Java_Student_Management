@@ -1,2 +1,3 @@
 # Springboot_PostgreSQL_Java_Student_Management
-Full-stack Student Management System using Spring Boot, PostgreSQL, and Docker. Backend with Spring Boot providing robust RESTful APIs and Spring Data JPA for seamless database integration. Fully Dockerized for scalable deployment. Highlights expertise in Java, Spring Boot, RESTful API development, PostgreSQL, and containerization.
+Full-stack Student Management System using Spring Boot, PostgreSQL, and Docker. Created RESTful APIs with Spring Boot and integrated with PostgreSQL using Spring Data JPA. Frontend supports CRUD operations with user-friendly student cards. Dockerized for scalable deployment. Demonstrates skills in Java, Spring Boot, PostgreSQL, and Docker.
+
