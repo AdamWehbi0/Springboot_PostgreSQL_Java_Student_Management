@@ -3,12 +3,13 @@ server:
 
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5332/student
-    username: postgres
-    password: Adam1218
+    url: jdbc:postgresql://dpg-cq44b7mehbks73b6jokg-a.ohio-postgres.render.com:5432/student_manage
+    username: student_manage_user
+    password: AgsMDXdcLdYb78M8sHCYU1oj5FUGJzUX
+    driver-class-name: org.postgresql.Driver
   jpa:
     hibernate:
-      ddl-auto: create-drop
+      ddl-auto: update
     properties:
       hibernate:
         dialect: org.hibernate.dialect.PostgreSQLDialect
